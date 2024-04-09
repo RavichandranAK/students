@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.gst.Entity&apos; to &apos;useproduct/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;gst&apos;&#x0D;&#x0A;- Destination element: &apos;useproduct/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;gst/src/main/java/com.gst.Entity&apos;" description="Copy package" destination="=useproduct/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gst.Entity" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1711348817433" version="1.0"/>
+</session>
